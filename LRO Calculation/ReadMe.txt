@@ -1,5 +1,3 @@
-Introduction 
-
 As we head back to the moon with the Artemis Mission, the more we can learn of its surface and cratering, the better our ability to determine a safe landing zone.  We do this by spatial resolution and remote sensing.   
 
 A basic feature of any optical system is how well it can discern small features in the scene being photographed.   Spatial resolution allows a remote sensing system to take images of an object at a resolution high enough for scientists to conduct an investigation of contents, scale, and surface details in the target. The target can be the surface of Earth, the sun, a planet, or features within a distant nebula, star cluster or galaxy. Usually, the desired spatial resolution is known in advance, and the optical system is designed to meet this resolution. Sometimes, major discoveries in science can be made just by having an image clear enough to reveal previously hidden details.  
