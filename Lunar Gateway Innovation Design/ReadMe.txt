@@ -1,1 +1,0 @@
-Adaptive Radiation Shielding for the Lunar Gateway

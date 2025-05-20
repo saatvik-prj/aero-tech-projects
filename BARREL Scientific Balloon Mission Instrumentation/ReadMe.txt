@@ -1,1 +1,0 @@
-BARREL Scientific Balloon Mission Instrumentation Analysis
