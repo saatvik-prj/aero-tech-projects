@@ -1,3 +1,6 @@
-permission required 
+<<permission required >>
 
-Please reach out to [saatvik.myschool@gmail.com]
+Please reach out to [saatvik.myschool@gmail.com] for full project access.
+
+Abstract
+Scientific instruments play a vital role in helping achieve NASA’s vision: “Exploring secrets of the universe for the benefit of all.” These scientific instruments are getting advanced in space missions and will require a lightweight power source that lasts longer durations in harsh environments. Fuel cells are a promising technology that can be used to power scientific instruments in future missions. They are electrochemical devices that use chemical reactions to convert chemical energy into electrical energy and heat. They do not run down or require recharging, as long as fuel and oxidant are supplied. Today, fuel cells are used to power small devices as well as large-scale applications, such as cars and houses. However, there is a need to understand its performance in an actual microgravity environment. To reach this understanding, the mission, Fuel Cell to Power Scientific Instruments (FCPSI), will use the Wallops Flight Facility’s (WFF) Sounding Rocket mission platform. The WFF’s Sounding Rocket missions will give up to 20 minutes of space time at an altitude range of 50 to 1500 kilometers. Our mission entails fabricating an instrument to monitor fuel cell performance, taking advantage of being in a microgravity environment, and being backed by a research team adopting a sound risk management plan to achieve the mission goals.

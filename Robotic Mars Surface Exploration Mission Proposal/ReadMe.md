@@ -1,3 +1,6 @@
-permission required 
+<<permission required>>
 
-Please reach out to [saatvik.myschool@gmail.com]
+Please reach out to [saatvik.myschool@gmail.com] for full project access.
+
+Abstract
+The exploration of Mars represents an important endeavor for advancing our understanding of planetary science, astrobiology, and the potential for human exploration beyond Earth. This report outlines the scope of a robotic Mars surface exploration mission designed to address key scientific questions, align with the Mars Exploration Program (MEP) goals, and inspire public interest in space exploration. The mission will focus on Jezero Crater, a scientifically significant location, and employ advanced robotic systems to collect data on Mars'water history, climate, and geology. The report details the mission's needs, goals, operational concepts, constraints, and landing site justification, ensuring a comprehensive and logical approach to mission design.
