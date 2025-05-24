@@ -1,5 +1,3 @@
-<<permission required>>
-
 Please reach out to [saatvik.myschool@gmail.com] for full project access.
 
 Adaptive Radiation Shielding for the Lunar Gateway
