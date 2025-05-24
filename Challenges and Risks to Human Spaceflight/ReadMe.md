@@ -1,6 +1,4 @@
-permission required 
-
-Please reach out to [saatvik.myschool@gmail.com]
+Please reach out to [saatvik.myschool@gmail.com] for full project access.
 
 Abstract
 This report examines three critical human factor issues—radiation exposure, reduced gravity, and crew selection—that pose significant risks to the physiological and psychological health and safety of astronauts on long-duration space missions, such as a human mission to Mars. Each issue is analyzed in detail, including its causes, risks, and potential hazards during both interplanetary travel and surface stays on Mars. The report proposes mitigation strategies, such as advanced shielding technologies, artificial gravity systems, rigorous training programs, and careful crew selection criteria, to address these challenges. Constraints to implementing these solutions, such as technological limitations and resource availability, are also discussed. The report concludes that radiation exposure is the most significant danger, requiring innovative solutions and mission planning. An appendix provides a public announcement summarizing the risks and emphasizing the importance of human spaceflight as a pioneering endeavor for humanity.
